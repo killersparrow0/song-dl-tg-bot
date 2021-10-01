@@ -66,7 +66,7 @@ async def song(client, message):
             "writethumbnail": True,
             "prefer_ffmpeg": True,
             "geo_bypass": True,
-            "nocheckcertificate": True,
+            "nocheckcertificate": False,
             "postprocessors": [
                 {
                     "key": "FFmpegExtractAudio",
