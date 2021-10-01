@@ -1,14 +1,14 @@
 # Telegram Song Download Bot ❤
 
-## You can download any song using this bot. Can be found in telegram as [@JESongBot](https://t.me/JESongBot)
+## You can download any song using this bot. Can be found in telegram as [➳Ｍｉｓａ❦](https://t.me/meenuty_bot)
 
 ### Commands:
-- In Groups - `/song <song name>`
+- In Groups - `/s <song name>`
 - In Private - Just send song name
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/Songdl-tgbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/killersparrow0/song-dl-tg-bot)
 
 ### Credits:
 
@@ -16,8 +16,5 @@
 
 - [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
-### Developers:
-
-- [@ImJanindu](https://t.me/ImJanindu)
-
-- [@InukaASiTH](https://t.me/InukaASiTH)
+###
+- [support join](https://t.me/movies_songs_tj)
