@@ -15,6 +15,5 @@
 - [Infinity BOTs](https://t.me/Infinity_BOTs)
 
 - [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-
 ###
-- [support join](https://t.me/movies_songs_tj)
+- [support group](https://t.me/movies_songs_tj)
